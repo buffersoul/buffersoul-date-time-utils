@@ -1,0 +1,26 @@
+{
+  "name": "buffersoul-date-time-utils",
+  "version": "1.0.0",
+  "description": "A Javascript Util Library For Date and Time Operations",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buffersoul/buffersoul-date-time-utils.git"
+  },
+  "author": "Zeeshan Zulfiqar",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "bugs": {
+    "url": "https://github.com/buffersoul/buffersoul-date-time-utils/issues"
+  },
+  "homepage": "https://github.com/buffersoul/buffersoul-date-time-utils#readme"
+}
