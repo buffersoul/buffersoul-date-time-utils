@@ -6,12 +6,12 @@ class DateTime {
     /**
      * @description <p>This JavaScript function, getOffset(), returns the offset of the local time zone from UTC in the specified format. The function takes an optional argument format, which is an object that defines the format for the returned offset value.</p>
      * <p><b>The possible format options are:</b></p>
-<ul>
-     <li><b>minutes:</b> returns the offset in minutes.</li>
-     <li><b>seconds:</b> returns the offset in seconds.</li>
-     <li><b>hours:</b> returns the offset in hours.</li>
-     <li><b>days:</b> returns the offset in days.</li>
-     <li><b>miliseconds:</b> returns the offset in miliseconds.</li>
+     <ul>
+         <li><b>minutes:</b> returns the offset in minutes.</li>
+         <li><b>seconds:</b> returns the offset in seconds.</li>
+         <li><b>hours:</b> returns the offset in hours.</li>
+         <li><b>days:</b> returns the offset in days.</li>
+         <li><b>miliseconds:</b> returns the offset in miliseconds.</li>
      </ul>
      <h2>Note:</h2><p>If format is not specified, it defaults to returning the offset in minutes. The value is returned as an object with two properties: value and format.</p>
      * @param formate
